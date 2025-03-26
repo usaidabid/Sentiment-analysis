@@ -13,3 +13,6 @@ Model Performance & Improvements:
 
 
 The model achieved around 90% accuracy, indicating strong performance in classifying sentiments. The F1-score and precision-recall values also showed a well-balanced value. Future improvements could involve using pre-trained embeddings such as Word2Vec or BERT to enhance contextual understanding and boost accuracy.
+
+you can check it out on :
+https://huggingface.co/spaces/usaid123/Sentiment_Analysis
